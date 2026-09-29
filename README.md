@@ -235,8 +235,8 @@ Attach `greywater_dataset.csv` + `greywater_model.pkl` as annexure proof of a wo
 
 | Feature | Why |
 |---|---|
-| IoT feed (ESP32 → serial/BLE → auto-fill form) | Close the IDF's sensor promise |
-| CSV logging + trend page | Community-level monitoring (IDF Q6/Q7) |
-| Strip photo scan (OpenCV threshold → turbidity/microbial hint) | Match Q6 "scan results" claim |
-| Real lab samples appended to CSV + retrain | Move Q11 to prototype-validated |
-| Export PDF report per test | Jeweller-style spec sheet equivalent for households |
+| IoT feed (ESP32 → serial/BLE → auto-fill form) | Close the sensor promise |
+| CSV logging + trend page | Community-level monitoring |
+| Strip photo scan (OpenCV threshold → turbidity/microbial hint) | Match "scan results" claim |
+| Real lab samples appended to CSV + retrain | Move  to prototype-validated |
+| Export PDF report per test | spec sheet equivalent for households |
