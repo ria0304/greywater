@@ -12,7 +12,7 @@ LABELS = {0: ("SAFE — Garden/Irrigation", "green", "Water is suitable for gard
 HTML = """<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Greywater Testing Kit + AI</title>
 <style>body{font-family:system-ui,sans-serif;max-width:640px;margin:2rem auto;padding:0 1rem;background:#f4f7f5}h1{color:#1b5e20}.card{background:#fff;padding:1.5rem;border-radius:12px;box-shadow:0 2px 8px #0002}label{display:block;margin:.6rem 0 .2rem}input,select{width:100%;padding:.5rem;font-size:1rem}button{background:#1b5e20;color:#fff;border:0;padding:.7rem 1.2rem;font-size:1rem;border-radius:8px;margin-top:1rem;cursor:pointer}#res{margin-top:1rem;padding:1rem;border-radius:8px;font-weight:bold}.green{background:#e8f5e9;color:#1b5e20}.orange{background:#fff3e0;color:#e65100}.red{background:#ffebee;color:#b71c1c}.small{color:#666;font-size:.85rem}</style></head>
-<body><h1>� 💧 Greywater Testing Kit + AI</h1>
+<body><h1>💧 Greywater Testing Kit + AI</h1>
 <div class="card">
 <p class="small">Decision-Tree model (90.7% test accuracy, 1500-sample dataset). Enter sensor/strip readings:</p>
 <label>pH (4.5 – 9.5)</label><input id="ph" type="number" step="0.1" value="7.2">
