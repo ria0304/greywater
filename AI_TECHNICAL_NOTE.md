@@ -1,4 +1,4 @@
-# AI Technical Section — paste into IDF Q9 / Q12 annexure
+
 
 ## Dataset (greywater_dataset.csv, 1500 rows)
 Features grounded in public water-quality data (Kaggle water-potability distributions,
